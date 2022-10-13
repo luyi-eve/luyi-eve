@@ -14,7 +14,6 @@ Hello, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all
 <b></b> - <b><i> Skills I have: Adobe Creative Suite, Cinematography </i></b><br>
 
 ### Pursuits🍀
-<b></b> - Things to learn: R studio, Machine learning, more scraping tech...?<br>
 <b></b> - Wish to analyze data and create vivid and aesthetic visualizations for newsrooms someday 📰 🧚‍♂️.<br>
 <b></b> - Ideal beats including:
  - <b>Female rights and Gender disparities</b>: abortion access, gender pay gap, etc.
@@ -22,6 +21,7 @@ Hello, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all
  - <b>Multiculturalism and Political Science</b>
  - <b>...</b>
 
+<b></b> - Things to learn: R studio, Machine learning, more scraping tech...?<br>
 <b></b> - Live with my (future) dog 🐕 - a black pomeranian or dachshund will do!!! <br>
 
 <b></b> <i>(...To be updated...)</i> <br>
