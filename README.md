@@ -24,7 +24,7 @@ Hi, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all my
 <b></b> - Things to learn: R studio, Machine learning, more scraping tech...?<br>
 <b></b> - Live with my (future) dog 🐕 - a black pomeranian or dachshund will do!!! <br>
 
-<b></b> <i>(...To be updated...)</i> <br>
+<b></b> <i>(...to be updated...)</i> <br>
 
 
 ### Fine Me At ...
