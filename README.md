@@ -25,17 +25,10 @@ Hello, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all
 
 
 ### Fine Me At ...
-- [Portfolio 🤯](https://luyi-eve.github.io) <br>
-- [Twitter 🦜](https://twitter.com/luyi_2021) <br>
-- [E-mail ✉️](eseve@live.com) <br>
-- [Instagram 👾](https://www.instagram.com/eseve__ly/) <br>
-
-
-
-
-
-
-
+- Portfolio 🤯: [luyi-eve.github.io](https://luyi-eve.github.io) <br>
+- Twitter 🦜: [luyi_2021](https://twitter.com/luyi_2021) <br>
+- Instagram 👾: [eseve__ly](https://www.instagram.com/eseve__ly/) <br>
+- E-mail ✉️: eseve@live.com <br>
 
 
 
