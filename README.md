@@ -1,4 +1,4 @@
-## Hi ![Hi](Hi.gif), I'm Eve 🚀👩🏼‍🚀🤯
+## Hi ![Hi](https://user-images.githubusercontent.com/107573330/195674484-530f0566-8834-456b-a966-abd5ac8ab6be.gif), I'm Eve 🚀👩🏼‍🚀🤯
 
 <!--
 **luyi-eve/luyi-eve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
