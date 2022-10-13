@@ -1,6 +1,6 @@
-# Hi 👋 I'm Yi (Eve) Lu 👩🏼‍🚀 🤍 🐝 
+# Hi 🤍  I'm Yi (Eve) Lu 👩🏼‍🚀 
 
-Hello, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all my friends do.<br>
+Hello, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all my friends do - <b>click to see my [portfolio](https://luyi-eve.github.io) 🌱 🐝 </b><br>
 
 ### Data 🏄‍♀️
 <b></b> - Alumna of the [Lede Program](https://ledeprogram.com) 2022 at Columbia Journalism School.<br>
@@ -28,7 +28,6 @@ Hello, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all
 
 
 ### Fine Me At ...
-- Portfolio 🤯: [luyi-eve.github.io](https://luyi-eve.github.io) <br>
 - Twitter 🦜: [luyi_2021](https://twitter.com/luyi_2021) <br>
 - E-mail ✉️: eseve@live.com <br>
 
