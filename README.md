@@ -21,8 +21,7 @@ Hello, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all
  - <b>Multiculturalism and Political Science</b>
  - <b>...</b>
 
-<b></b> - Live with my (future) dog - a black pomeranian or dachshund will do!!! <br>
-
+<b></b> - Live with my (future) dog - a black pomeranian or dachshund will do 🐕!!! <br>
 
 ### Fine Me At ...
 - Portfolio 🤯: [luyi-eve.github.io](https://luyi-eve.github.io) <br>
