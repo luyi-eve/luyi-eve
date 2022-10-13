@@ -1,6 +1,36 @@
-## Hi, I'm Yi Lu 🚀👩🏼‍🚀🤯
+## Hi 👋 I'm Yi (Eve) Lu 👩🏼‍🚀 🤍 🐝 
 
-My name is pronounced as ee-lu, but feel free to call me Eve as my all my friends do✨ 
+Hello, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all my friends do.<br>
+
+### Data 🏄‍♀️
+<b></b> - Alumna of the [Lede Program](https://ledeprogram.com) 2022 at Columbia Journalism School.<br>
+<b></b> - A data explorer who loves to tell stories using data to expose unnoticeable individual and social changes.<br>
+<b></b> - Tools I use: Python, JavaScript/D3.js, HTML/CSS,Adobe Illustrator, Mapbox, QGIS, Datawrapper/Flourish<br>
+
+### Journalism 🔭
+<b></b> - A current Jouranlism graduate student at [University of Miami](https://com.miami.edu/journalism-ma/), covering issues in Miami-Dade County and South Florida.<br>
+<b></b> - Alumna of [Shanghai University](https://www.shu.edu.cn) with a bachelor's degree in Journalism.<br>
+<b></b> - A multimedia journalist and documentary filmmaker who has been studying journalism for six years.<br>
+<b></b> - Skills I have: Adobe Creative Suite, Cinematography<br>
+
+### Pursuits🍀
+<b></b> - Wish to analyze data for my storytelling and create vivid and aesthetic visualizations for newsrooms someday 📰 🧚‍♂️.<br>
+<b></b> - Ideal beats including:
+ - <b>Female rights and Gender disparities</b>: abortion access, gender pay gap, etc.
+ - <b>Climate Change:</b> sea-level rises, seasonal flooding, desertification,etc.
+ - <b>Multiculturalism and Political Science</b>
+ - <b>...</b>
+
+<b></b> - Live with my (future) dog - a black pomeranian or dachshund will do!!! <br>
+
+
+
+
+
+### Fine Me At ...
+
+
+
 
 
 <!--
