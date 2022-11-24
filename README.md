@@ -15,7 +15,7 @@ Hi, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all my
 <b></b> - <b><i> Skills I have: Adobe Creative Suite, cinematography </i></b><br>
 
 ### Pursuits🍀
-<b></b> - Wish to analyze data, create vivid visualizations and apply most-updated media techonologies for storytelling in newsrooms someday 📰 🧚‍♂️.<br>
+<b></b> - Wish to analyze data, design visualizations through the application of most-updated media techonologies for storytelling 📰 🧚‍♂️.<br>
 <b></b> - Ideal beats including:
  - <b>Female rights and Gender disparities</b>: abortion access, gender pay gap, etc.
  - <b>Climate Change:</b> sea-level rises, seasonal flooding, desertification,etc.
