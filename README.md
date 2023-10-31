@@ -4,13 +4,13 @@ Hi, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all my
 
 
 ### Data 🏄‍♀️
-<b></b> - Will be joining the Data Journalism Graduate Program at [Stanford University](https://journalism.stanford.edu) in Fall 2023🌲. <br>
+<b></b> - Current Data Journalism Graduate Student at [Stanford University](https://journalism.stanford.edu) in Fall 2023🌲. <br>
 <b></b> - Alumna of the [Lede Program](https://ledeprogram.com) 2022 at Columbia Journalism School.<br>
 <b></b> - A data explorer who loves to tell stories using data to expose unnoticeable individual and social changes.<br>
 <b></b> - <b><i>Tools I use: Python, JavaScript/D3.js, HTML/CSS, Adobe Illustrator, Mapbox, QGIS, Datawrapper/Flourish</i></b><br>
 
 ### Journalism 🔭
-<b></b> - A current Jouranlism graduate student at [University of Miami](https://com.miami.edu/journalism-ma/), covering issues in Miami-Dade County and South Florida.<br>
+<b></b> - Alumna of [University of Miami](https://com.miami.edu/journalism-ma/) with a master's degree in Journalism, covering issues in Miami-Dade County and South Florida.<br>
 <b></b> - Alumna of [Shanghai University](https://www.shu.edu.cn) with a bachelor's degree in Journalism.<br>
 <b></b> - A multimedia journalist and documentary filmmaker who has been studying journalism for six years.<br>
 <b></b> - <b><i> Skills I have: Adobe Creative Suite, cinematography </i></b><br>
