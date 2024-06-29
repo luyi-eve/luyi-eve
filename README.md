@@ -12,7 +12,7 @@ Hi, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all my
 ### Journalism 🔭
 <b></b> - Alumna of [University of Miami](https://com.miami.edu/journalism-ma/) with a master's degree in Journalism, covering issues in Miami-Dade County and South Florida.<br>
 <b></b> - Alumna of [Shanghai University](https://www.shu.edu.cn) with a bachelor's degree in Journalism.<br>
-<b></b> - A multimedia journalist and documentary filmmaker who has been studying journalism for six years.<br>
+<b></b> - A multimedia journalist and documentary filmmaker.<br>
 <b></b> - <b><i> Skills I have: Adobe Creative Suite, cinematography </i></b><br>
 
 ### Pursuits🍀
@@ -29,7 +29,7 @@ Hi, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all my
 <b></b> <i>(...to be updated...)</i> <br>
 
 
-### Fine Me At ...
+### Find Me At ...
 - Twitter 🦜: [luyi_2021](https://twitter.com/luyi_2021) <br>
 - E-mail ✉️: eseve@live.com <br>
 
