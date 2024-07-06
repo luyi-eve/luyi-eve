@@ -1,4 +1,4 @@
-# Hello 🤍  I'm Eve Yi Lu 👩🏼‍🚀 
+# Hello 🤍  I'm Eve Lu 👩🏼‍🚀 
 
 Hi, my name is pronounced as ee-lu, but feel free to call me ✨Eve✨ as all my friends do. I've started using GitHub for my data analysis and visualization since June 2022 - <b>click to see my [portfolio](https://luyi-eve.github.io) 🌱 🐝 </b>
 
